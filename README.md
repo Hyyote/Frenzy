@@ -2,7 +2,9 @@ https://drive.google.com/file/d/1cQ7QEQUThA1qs8eQrsZHV_z8zr7zNhr7/view?usp=shari
 
 # Frenzy
 
-A stripped, optimized Windows 11 26H1 (build 28000.1575) installation built for competitive gaming and low-latency workloads. Frenzy removes over 1,500 unnecessary components at the image level, deploys custom kernel drivers for input latency and scheduling, and applies hardware-level tuning via MSR/MMIO writes on every boot — all without touching Driver Signature Enforcement or PatchGuard.
+A stripped, optimized Windows 11 26H1 (build 28000.1575) installation built for competitive gaming and low-latency workloads. Frenzy removes over 1,500 unnecessary components at the image level, deploys custom kernel drivers for input latency and scheduling, and applies hardware-level tuning via MSR/MMIO writes on every boot — all without touching Driver Signature Enforcement or PatchGuard.<br>
+
+There are lots of missing features that break programs and games with specific settings that do not work well on certain systems.
 
 ## What It is
 
