@@ -2,8 +2,8 @@ https://drive.google.com/file/d/1cQ7QEQUThA1qs8eQrsZHV_z8zr7zNhr7/view?usp=shari
 
 ## Support Frenzy
 If you find this useful, consider donating:
-- **BTC:** bc1qacd9jsje236mgphkpx0dycvv87kgem9dddxekg
-- **LTC:** LTW5QwkKMCq6DThbWVo1YbayRZzP33gDsR
+- **BTC:** `bc1qacd9jsje236mgphkpx0dycvv87kgem9dddxekg`
+- **LTC:** `LTW5QwkKMCq6DThbWVo1YbayRZzP33gDsR`
 
 # Frenzy
 
