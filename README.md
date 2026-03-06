@@ -84,8 +84,8 @@ Installed silently at first logon with a custom theme and configuration. Replace
 ## Prerequisites
 
 - Secure Boot: **OFF**
-- HVCI / VBS: **OFF**
 - Internet not required for installation
+- NIC and GPU drivers and another browser if you don't like Brave portable
 
 ## Anti-Cheat Compatibility
 
